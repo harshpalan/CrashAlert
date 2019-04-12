@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\GIT\Crash-Alert\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="E:\GIT\Crash-Alert\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_aa9d9332738433af7631fb59f2761c09d798013e.jar" />
+    </item>
+    <item
+        jar="E:\GIT\Crash-Alert\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="E:\GIT\Crash-Alert\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_a23c27b37e2161467e716c9fed09ba4bdcf8f88f.jar" />
+    </item>
+    <item
+        jar="E:\GIT\Crash-Alert\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="E:\GIT\Crash-Alert\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.1.0_42a1d7edc34a2b1e256b0f57f7fe9d0862b82d37.jar" />
+    </item>
+    <item
+        jar="E:\GIT\Crash-Alert\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="E:\GIT\Crash-Alert\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_cffe5dc3d9471d623777c3285085025afca9a41a.jar" />
+    </item>
+    <item
+        jar="C:\Users\hp\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="E:\GIT\Crash-Alert\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_ecdf12b9048302c8f2cf58038b5472b0e42c3fd9.jar" />
+    </item>
+    <item
+        jar="E:\GIT\Crash-Alert\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="E:\GIT\Crash-Alert\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_68b7c0d3b28897a24241e3c098451916f9b4264b.jar" />
+    </item>
+    <item
+        jar="E:\GIT\Crash-Alert\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="E:\GIT\Crash-Alert\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.1.0_b00085bdf421d14a8ac6ee8e74817a7e18a36691.jar" />
+    </item>
+    <item
+        jar="E:\GIT\Crash-Alert\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="E:\GIT\Crash-Alert\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_faa61f263d7a107349d4677eedff382d70324c80.jar" />
+    </item>
+    <item
+        jar="E:\GIT\Crash-Alert\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="E:\GIT\Crash-Alert\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_007638b28d7b520caaf37682267e638363b56c5a.jar" />
+    </item>
+    <item
+        jar="E:\GIT\Crash-Alert\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="E:\GIT\Crash-Alert\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_26038aea04af1bd28073d7a08eef8507eaf03a1b.jar" />
+    </item>
+    <item
+        jar="E:\GIT\Crash-Alert\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="E:\GIT\Crash-Alert\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.1.0_4a85afbff8b0d0712307fafb5d83523596eeca89.jar" />
+    </item>
+    <item
+        jar="E:\GIT\Crash-Alert\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="E:\GIT\Crash-Alert\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_777dd5be5006c0741df9a7ffd1881ad8119bfc72.jar" />
+    </item>
+    <item
+        jar="E:\GIT\Crash-Alert\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="E:\GIT\Crash-Alert\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_d612d1fca127c5663b1fe674a7b9c9768ad01a41.jar" />
+    </item>
+
+</items>
